@@ -1,6 +1,6 @@
 
 
-name: Publish on GitHub, CurseForge
+name: Test Workflow
 
 on: [ workflow_dispatch ]
 
