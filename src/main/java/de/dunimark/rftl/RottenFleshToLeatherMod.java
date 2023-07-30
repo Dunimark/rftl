@@ -19,11 +19,11 @@ import net.fabricmc.api.ModInitializer;
 
 public class RottenFleshToLeatherMod implements ModInitializer {
 	public static final Logger LOGGER = LogManager.getLogger();
-	public static final String MODID = "rotten_flesh_to_leather";
+	public static final String MODID = "rftl";
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Initializing RottenFleshToLeatherMod");
+		LOGGER.info("Initializing rftl");
 
 	}
 }
