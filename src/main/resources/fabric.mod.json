@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "rotten_flesh_to_leather",
+  "id": "rftl",
   "version": "1.0.0+1.20",
   "name": "Rotten Flesh to Leather",
   "description": "A simple mod that makes rotten flesh less useless by allowing smelting into leather",
@@ -12,14 +12,14 @@
     "sources": "https://github.com/dunimark/rftl"
   },
   "license": "GPL-3.0 License",
-  "icon": "assets/rotten_flesh_to_leather/icon.png",
+  "icon": "assets/rftl/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "de.dunimark.rottenfleshtoleather.RottenFleshToLeatherMod"
+      "de.dunimark.rftl.RottenFleshToLeatherMod"
     ],
     "client": [
-      "de.dunimark.rottenfleshtoleather.ClientInit"
+      "de.dunimark.rftl.ClientInit"
     ]
   },
   "depends": {
