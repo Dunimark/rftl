@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "rftl",
-  "version": "1.0.0+1.20",
+  "version": "1.0.1+1.20",
   "name": "Rotten Flesh to Leather",
   "description": "A simple mod that makes rotten flesh less useless by allowing smelting into leather",
   "authors": [
